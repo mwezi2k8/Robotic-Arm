@@ -14,5 +14,21 @@ Time - 51min +  1hr 36 min
 After making the 2nd arm, there was now a need to add a 3rd servo motor, which would move the gripper up and down using the movement of the 2nd joystick. Therefore, the arm needed to be stronger to support the weight of the servo as well as the object it would pick up. To achieve this, I made the walls thicker and added a broader attachment, making the structure strong enough to properly handle the combined weight of the object and the two servos.
 
 
-<img width="1468" height="926" alt="image" src="https://github.com/user-attachments/assets/b7681a1e-7dba-49df-89fb-bc88b8f01334" />
+journal #4 by @Mwezi2000
+
+i started with tx schematics for which i used arduino nano as transmitter
+The goal here is pretty simple: two analog thumbsticks to give me 4-axis proportional control over the arm's servos, plus their built-in pushbuttons for claw toggle and mode selection.
+
+<img width="1461" height="868" alt="image" src="https://github.com/user-attachments/assets/b3933581-12c9-492b-8188-362707c5ad3d" />
+
+for the arm receiver side today. Since servos are notorious for drawing tons of current and resetting microcontrollers, I decided to give every single servo motor its own dedicated L7805 regulator with input/output filter caps so the lines stay clean. The Arduino Uno handles the PWM signals from digital pins D3, D5, D6, and D9, running off the main battery rail through a diode and master power switch. Threw in a quick 330Ω resistor and LED on the Uno's 5V rail as a basic power indicator. Realized I still need to drop in the actual RF receiver module pinout so it can talk to the remote, but the main power routing and motor control sections are basically done
+
+
+<img width="1466" height="872" alt="image" src="https://github.com/user-attachments/assets/4d5821b2-21b5-41b7-bce2-8dac3b8bc5b9" />
+
+
+
+
+
+
 
