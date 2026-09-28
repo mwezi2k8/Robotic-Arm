@@ -13,3 +13,6 @@ Time - 51min +  1hr 36 min
 
 After making the 2nd arm, there was now a need to add a 3rd servo motor, which would move the gripper up and down using the movement of the 2nd joystick. Therefore, the arm needed to be stronger to support the weight of the servo as well as the object it would pick up. To achieve this, I made the walls thicker and added a broader attachment, making the structure strong enough to properly handle the combined weight of the object and the two servos.
 
+
+<img width="1468" height="926" alt="image" src="https://github.com/user-attachments/assets/b7681a1e-7dba-49df-89fb-bc88b8f01334" />
+
