@@ -26,6 +26,30 @@ for the arm receiver side today. Since servos are notorious for drawing tons of 
 
 <img width="1466" height="872" alt="image" src="https://github.com/user-attachments/assets/4d5821b2-21b5-41b7-bce2-8dac3b8bc5b9" />
 
+journal #5 by @Mwezi2000
+total time = 4 hrs 42 mins (1hr 2 min + 2hr 5 min + 1 hr 35 min )
+
+for this weeks theme "treasure" i made some cool art (could not put it on roboarm till now, will update soon )
+
+<img width="1469" height="931" alt="image" src="https://github.com/user-attachments/assets/70d9916b-18f0-4b47-a206-8a8e49a93a14" />
+
+next was this crazy treasure map which took a whole lot of timeee!
+
+<img width="1470" height="915" alt="image" src="https://github.com/user-attachments/assets/2cf86b10-b950-4d91-98bb-9ee9f01d75bb" />
+
+
+<img width="1470" height="925" alt="image" src="https://github.com/user-attachments/assets/d6fd1d20-0c38-4688-9b70-f74d6063d77f" />
+
+
+<img width="1470" height="930" alt="image" src="https://github.com/user-attachments/assets/366a22aa-e63e-4d17-9a90-450c2e53f1bf" />
+
+this was it for the treasure art!
+
+
+
+
+
+
 
 
 
