@@ -15,6 +15,7 @@ After making the 2nd arm, there was now a need to add a 3rd servo motor, which w
 
 
 journal #4 by @Mwezi2000
+total time = 1 hr 28 mins
 
 i started with tx schematics for which i used arduino nano as transmitter
 The goal here is pretty simple: two analog thumbsticks to give me 4-axis proportional control over the arm's servos, plus their built-in pushbuttons for claw toggle and mode selection.
@@ -44,6 +45,16 @@ next was this crazy treasure map which took a whole lot of timeee!
 <img width="1470" height="930" alt="image" src="https://github.com/user-attachments/assets/366a22aa-e63e-4d17-9a90-450c2e53f1bf" />
 
 this was it for the treasure art!
+
+
+
+journal 5 by @Mwezi2000
+total time = 3hr 33min    ( 2hr 2 min + 1hr 31 min )
+
+
+
+
+
 
 
 
